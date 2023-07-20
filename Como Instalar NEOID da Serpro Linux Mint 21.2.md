@@ -38,6 +38,7 @@ Após o comando, sua tela deve parecer com esta abaixo:
 ![03-pacote01-libssl04](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/bd5e6d70-5035-489c-b336-5da40e228714)
 
 
+
 Vamos instalar o pacote com o comando abaixo. **Atenção:** para este comando, irá pedir a senha de super usuário **(sudo)**:
 ```
 sudo dpkg -i libssl1.0.0_1.0.2g-1ubuntu4.20_amd64.deb
