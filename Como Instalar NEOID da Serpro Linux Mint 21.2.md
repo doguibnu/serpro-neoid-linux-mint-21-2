@@ -76,8 +76,6 @@ A tela do comando deve parecer com esta abaixo:
 
 
 Quando o comando for executado, a tela deve parecer como esta abaixo:
-![08-down-segundo-pacote](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/b2e9c986-2ae3-4412-8722-997083af469a)
-
 
 Vamos instalar este segundo pacote baixado com o comando indicado. **Atenção:** o comando irá solicitar a senha de super usuário **(sudo)**, digite a tecla **enter** e digite a senha de super usuário.
 ```
