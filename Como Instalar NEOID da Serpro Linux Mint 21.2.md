@@ -5,15 +5,12 @@
 Verificando a versão do sistema:
 ![01-versao-mint-44](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/562ef9c8-6ec1-4968-b41e-a2f9c1547fe2)
 
-
 Abrir um **terminal** para executar o **update** e o **upgrade** do sistema com o comando:
-
 ```
 sudo apt update -y && sudo apt upgrade -y
 ```
 
 Ao finalizar o processo, executar um **reboot** do sistema, com o comando:
-
 ```
 sudo reboot
 ```
