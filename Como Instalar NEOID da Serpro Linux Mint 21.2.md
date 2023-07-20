@@ -46,13 +46,16 @@ sudo dpkg -i libssl1.0.0_1.0.2g-1ubuntu4.20_amd64.deb
 
 
 Quando executar o comando, sua tela de **terminal** deve parecer como abaixo. Digite a tecla **enter**:
+
 ![04-sudo-prim-pacote9](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/d63d4e94-3836-4fb3-94a9-d683b1f3a84e)
+
 
 
 O comando irá solicitar a **senha** de super usuário como mostra a figura abaixo. Digitar a senha de super usuário **(sudo)** e teclar **enter**.
 
 
 ![05-tela-sudo-prim-comando1](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/7216dfb3-0ee3-4235-9da1-0f8f9f41b979)
+
 
 
 O comando irá **instalar o pacote**. A tela deve parecer como a figura abaixo:
