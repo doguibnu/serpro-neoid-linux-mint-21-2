@@ -64,7 +64,7 @@ O comando irá **instalar o pacote**. A tela deve parecer como a figura abaixo:
 
 Ainda no mesmo **terminal**, vamos executar a instalação do próximo pacote necessário que é: `libssl1.1_1.1.0g-2ubuntu4_amd64.deb` Utilizar o comando abaixo e digitar a tecla **enter:**
 ```
-wget libssl1.1_1.1.0g-2ubuntu4_amd64.deb
+wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.0g-2ubuntu4_amd64.deb 
 ```
 
 ![07-segundo-pacote7](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/bac76b49-4682-4842-855d-0af55420f1e3)
