@@ -67,11 +67,12 @@ Ainda no mesmo **terminal**, vamos executar a instalação do próximo pacote ne
 wget libssl1.1_1.1.0g-2ubuntu4_amd64.deb
 ```
 
-![08-down-segundo-pacote](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/a90897e3-d33b-4450-823f-fcf268e61e63)
+![07-segundo-pacote7](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/bac76b49-4682-4842-855d-0af55420f1e3)
 
 
 A tela do comando deve parecer com esta abaixo:
-![07-segundo-pacote7](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/bac76b49-4682-4842-855d-0af55420f1e3)
+
+![08-down-segundo-pacote](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/a90897e3-d33b-4450-823f-fcf268e61e63)
 
 
 Quando o comando for executado, a tela deve parecer como esta abaixo:
