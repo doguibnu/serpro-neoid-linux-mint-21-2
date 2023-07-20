@@ -25,7 +25,7 @@ cd serpro
 
 A tela de terminal deve ser parecida como a figura abaixo:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-19-16-03-20-02-tela-terminal06.png)
+![02-tela-terminal06](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/b3baa6ed-8da3-4255-8656-59e46545fa41)
 
 Dentro desta pasta criada, vamos iniciar o processo de instalação de alguns pacotes necessários. O primeiro pacote a ser baixado é: `libssl1.0.0_1.0.2g-1ubuntu4.20_amd64.deb`  Utilize o comando abaixo:
 
