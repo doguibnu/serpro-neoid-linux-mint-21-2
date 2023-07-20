@@ -35,110 +35,115 @@ wget http://nz2.archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.0.0_1.0.2g
 
 Após o comando, sua tela deve parecer com esta abaixo:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-19-16-12-59-03-pacote01-libssl04.png)
+![03-pacote01-libssl04](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/bd5e6d70-5035-489c-b336-5da40e228714)
+
 
 Vamos instalar o pacote com o comando abaixo. **Atenção:** para este comando, irá pedir a senha de super usuário **(sudo)**:
-
 ```
 sudo dpkg -i libssl1.0.0_1.0.2g-1ubuntu4.20_amd64.deb
 ```
 
 Quando executar o comando, sua tela de **terminal** deve parecer como abaixo. Digite a tecla **enter**:
-
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-19-16-19-52-04-sudo-prim-pacote9.png)
-
+![04-sudo-prim-pacote9](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/d63d4e94-3836-4fb3-94a9-d683b1f3a84e)
 
 
 O comando irá solicitar a **senha** de super usuário como mostra a figura abaixo. Digitar a senha de super usuário **(sudo)** e teclar **enter**.
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-19-16-22-12-05-tela-sudo-prim-comando1.png)
-
+![05-tela-sudo-prim-comando1](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/7216dfb3-0ee3-4235-9da1-0f8f9f41b979)
 
 
 O comando irá **instalar o pacote**. A tela deve parecer como a figura abaixo:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-19-16-30-01-06-instalar-primeiro-comando33.png)
+![06-instalar-primeiro-comando33](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/61ddde35-932e-4c24-b3d1-7feb5b0ed101)
+
 
 Ainda no mesmo **terminal**, vamos executar a instalação do próximo pacote necessário que é: `libssl1.1_1.1.0g-2ubuntu4_amd64.deb` Utilizar o comando abaixo e digitar a tecla **enter:**
-
 ```
 wget libssl1.1_1.1.0g-2ubuntu4_amd64.deb
 ```
+![08-down-segundo-pacote](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/a90897e3-d33b-4450-823f-fcf268e61e63)
 
 A tela do comando deve parecer com esta abaixo:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-19-16-45-08-07-segundo-pacote7.png)
+![07-segundo-pacote7](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/bac76b49-4682-4842-855d-0af55420f1e3)
+
 
 Quando o comando for executado, a tela deve parecer como esta abaixo:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-19-16-49-09-08-down-segundo-pacote.png)
-
+![08-down-segundo-pacote](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/b2e9c986-2ae3-4412-8722-997083af469a)
 
 
 Vamos instalar este segundo pacote baixado com o comando indicado. **Atenção:** o comando irá solicitar a senha de super usuário **(sudo)**, digite a tecla **enter** e digite a senha de super usuário.
-
 ```
 sudo dpkg -i libssl1.1_1.1.0g-2ubuntu4_amd64.deb
 ```
 
 Ao executar o comando, a tela de **terminal** deve parecer como esta abaixo:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-19-16-57-49-10-tela-instala-segundo-pacote-17.png)
+![10-tela-instala-segundo-pacote-17](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/db5e787e-6fd4-43f9-948f-2a22be9210f2)
 
-
+![11-site-libnss0fire](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/fa22af6d-1ed6-48c0-97b8-ef2d9d4a096b)
 
 Próximo passo, vamos baixar e instalar o pacote: **libnss3-tools** através do site da comunidade **Linux Mint.** Abra o navegador Firefox e acesse o endereço:
 
 [Linux Mint - Community](https://community.linuxmint.com/software/view/libnss3-tools) . O navegador deve mostrar a tela como na figura abaixo. Clicar no botão **Install**:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-20-08-37-10-11-site-libnss0fire.png)
+![11-site-libnss0fire](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/055df0d9-4698-4daa-921a-37bfccffcf0e)
+
 
 Quando clicar, uma janela irá abrir questionando se permite que o site possa abrir a ligação do aplicativo **apt (instalar pacotes)** com o **AptURl**. Clique em: **Abrir/Permitir Ligação** como mostra a figura abaixo:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-20-08-56-49-12-clicar-abrir-link-52a.png)
+![12-clicar-abrir-link-52a](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/c112d4e9-9058-453d-b7f7-52d21dc9780c)
+
 
 Então, uma janela de instalação de programa irá questionar se deseja instalar o pacote desejado, como mostra a figura abaixo. **Clique** em **Instalar**:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-20-09-02-37-13-tela-de%20instalar-pacote0libnss3-50.png)
+![13-tela-de instalar-pacote0libnss3-50](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/7b91b07a-7a61-4c53-8ad6-c5704e7a140a)
+
 
 Inserir a senha de **super usuário** e clique em **Autenticar** para executar a instalação do pacote como mostra a figura abaixo. O pacote será instalado no sistema e a tela de instalação irá fechar.
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-20-09-17-47-14-senha-para-instalar-pacote.png)
+![14-senha-para-instalar-pacote](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/2b21d036-7cb9-45e5-801a-cee8aa703d46)
 
 
 
 Com os pacotes necessários instalados no sistema para o funcionamento correto do NeoID, vamos baixar o instalador do NEOID da Serpro, no site de download, acessando o siite:  [NeoID - Seu certificado digital em nuvem - Drivers](https://neoid.estaleiro.serpro.gov.br/downloads/) selecione o sistema operaciona **Linux** e clique em **baixar**. Veja a figura abaixo: 
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-20-09-35-16-15-neo-id-baixiar-site-54aa.png)
+![15-neo-id-baixiar-site-54aa](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/dbfb82be-8ce6-415c-baab-77a0f590b565)
+
 
 Quando o downlaod for concluído, **clique** no arquivo baixado para podermos fazer a instalação do mesmo, como mostra a figura abaixo:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-20-09-43-47-16-dowload-neo-id-44aa.png)
+![16-dowload-neo-id-44aa](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/4c65627e-ca11-4cfc-b3d5-16e5bef3408b)
+
 
 Aguarde o sistema mostrar a tela de instalação do program e então clique no botão: **Instalar Pacote**. Será requerido a senha de **super usuário (sudo)**.
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-20-09-48-21-16-instalar-Neoid36.png)
+![16-instalar-Neoid36](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/d93483fa-fb41-4e79-a631-65b0a9234605)
+
+
 
 Inserir a senha e clicar em **Autenticar**:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-20-09-54-14-17-senha-instalar-neoidg.png)
+![17-senha-instalar-neoidg](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/b22afc30-e09e-44f2-9442-983764a31c6c)
+
+
 
 Alguns softwares adicionais serão requeridos para a instalação completa do aplicativo. Clique em **Continuar** e aguarde a finalização do processo. Veja a figura abaixo:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-20-10-02-36-18-pacotes-requeridos-neoid31.png)
-
+![18-pacotes-requeridos-neoid31](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/d085cb82-7819-4a79-97e1-7785391298a7)
 
 
 Após a instalação do programa, clique no menu do Linux Mint e encontre o programa**NEOID** como motra a figura abaixo e **clique** para iniciar o mesmo:
 
-![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-20-10-10-32-21-menu-neoid-mint.png) 
+![21-menu-neoid-mint](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/abd9f967-fb35-4cc3-9142-fc7b61c2b56e)
+
 
 Para aprender a usar o **NeoID**, utilize o manual oficial disponibilizado no site da [Serpro ](https://neoid.estaleiro.serpro.gov.br/downloads/Manual-NeoID.pdf)
 
 ## Tutorial Realizado pelo **Setor de TI**
 
 [Prefeitura Muncipal de Prudentópolis - Paraná](https://www.prudentopolis.pr.gov.br/)
-
 
 
 **Douglas Giovani Oechsler**
