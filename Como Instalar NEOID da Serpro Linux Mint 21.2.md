@@ -48,12 +48,10 @@ Quando executar o comando, sua tela de **terminal** deve parecer como abaixo. Di
 
 
 O comando irá solicitar a **senha** de super usuário como mostra a figura abaixo. Digitar a senha de super usuário **(sudo)** e teclar **enter**.
-
 ![05-tela-sudo-prim-comando1](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/7216dfb3-0ee3-4235-9da1-0f8f9f41b979)
 
 
 O comando irá **instalar o pacote**. A tela deve parecer como a figura abaixo:
-
 ![06-instalar-primeiro-comando33](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/61ddde35-932e-4c24-b3d1-7feb5b0ed101)
 
 
@@ -61,15 +59,15 @@ Ainda no mesmo **terminal**, vamos executar a instalação do próximo pacote ne
 ```
 wget libssl1.1_1.1.0g-2ubuntu4_amd64.deb
 ```
+
 ![08-down-segundo-pacote](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/a90897e3-d33b-4450-823f-fcf268e61e63)
 
-A tela do comando deve parecer com esta abaixo:
 
+A tela do comando deve parecer com esta abaixo:
 ![07-segundo-pacote7](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/bac76b49-4682-4842-855d-0af55420f1e3)
 
 
 Quando o comando for executado, a tela deve parecer como esta abaixo:
-
 ![08-down-segundo-pacote](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/b2e9c986-2ae3-4412-8722-997083af469a)
 
 
@@ -79,10 +77,11 @@ sudo dpkg -i libssl1.1_1.1.0g-2ubuntu4_amd64.deb
 ```
 
 Ao executar o comando, a tela de **terminal** deve parecer como esta abaixo:
-
 ![10-tela-instala-segundo-pacote-17](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/db5e787e-6fd4-43f9-948f-2a22be9210f2)
 
+
 ![11-site-libnss0fire](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/fa22af6d-1ed6-48c0-97b8-ef2d9d4a096b)
+
 
 Próximo passo, vamos baixar e instalar o pacote: **libnss3-tools** através do site da comunidade **Linux Mint.** Abra o navegador Firefox e acesse o endereço:
 
