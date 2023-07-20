@@ -16,19 +16,19 @@ Ao finalizar o processo, executar um **reboot** do sistema, com o comando:
 sudo reboot
 ```
 
-Nesta versão do **Linux Mint (21.2)** é necessário baixar alguns pacotes manualmente para que se possoa instalar o aplicativo **NeoID** de forma correta e com o funcionamento desejado, sem erros.  Abrir um **terminal** do sistema. Com o terminal aberto, utilizar o comando para fazer uma pasta chamada **serpro**. Pasta feita, **entre/mude** para a pasta criada. Siga com os comandos abaixo:
 
+Nesta versão do **Linux Mint (21.2)** é necessário baixar alguns pacotes manualmente para que se possoa instalar o aplicativo **NeoID** de forma correta e com o funcionamento desejado, sem erros.  Abrir um **terminal** do sistema. Com o terminal aberto, utilizar o comando para fazer uma pasta chamada **serpro**. Pasta feita, **entre/mude** para a pasta criada. Siga com os comandos abaixo:
 ```
 mkdir serpro
 cd serpro
 ```
+
 
 A tela de terminal deve ser parecida como a figura abaixo:
 
 ![02-tela-terminal06](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/b3baa6ed-8da3-4255-8656-59e46545fa41)
 
 Dentro desta pasta criada, vamos iniciar o processo de instalação de alguns pacotes necessários. O primeiro pacote a ser baixado é: `libssl1.0.0_1.0.2g-1ubuntu4.20_amd64.deb`  Utilize o comando abaixo:
-
 ```
 wget http://nz2.archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.0.0_1.0.2g-1ubuntu4.20_amd64.deb
 ```
@@ -43,11 +43,13 @@ Vamos instalar o pacote com o comando abaixo. **Atenção:** para este comando, 
 sudo dpkg -i libssl1.0.0_1.0.2g-1ubuntu4.20_amd64.deb
 ```
 
+
 Quando executar o comando, sua tela de **terminal** deve parecer como abaixo. Digite a tecla **enter**:
 ![04-sudo-prim-pacote9](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/d63d4e94-3836-4fb3-94a9-d683b1f3a84e)
 
 
 O comando irá solicitar a **senha** de super usuário como mostra a figura abaixo. Digitar a senha de super usuário **(sudo)** e teclar **enter**.
+
 
 ![05-tela-sudo-prim-comando1](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/7216dfb3-0ee3-4235-9da1-0f8f9f41b979)
 
