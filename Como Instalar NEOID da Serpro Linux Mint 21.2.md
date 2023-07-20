@@ -2,7 +2,9 @@
 
 **OBS: Alguns comandos realizados devem requerer permissão de super usuário (sudo), necessitando a senha de adminitrador do sistema.**
 
-Verificando a versão do sistema:![](/home/prefprudeserpro/.var/app/com.github.marktext.marktext/config/marktext/images/2023-07-19-15-37-18-01-versao-mint-44.png)
+Verificando a versão do sistema:
+![01-versao-mint-44](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/562ef9c8-6ec1-4968-b41e-a2f9c1547fe2)
+
 
 Abrir um **terminal** para executar o **update** e o **upgrade** do sistema com o comando:
 
