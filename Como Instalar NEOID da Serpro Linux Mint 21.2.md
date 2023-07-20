@@ -62,11 +62,11 @@ O comando irá **instalar o pacote**. A tela deve parecer como a figura abaixo:
 ![06-instalar-primeiro-comando33](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/61ddde35-932e-4c24-b3d1-7feb5b0ed101)
 
 
-Ainda no mesmo **terminal**, vamos executar a instalação do próximo pacote necessário que é: `libssl1.1_1.1.0g-2ubuntu4_amd64.deb` Utilizar o comando abaixo e digitar a tecla **enter:**
+Ainda no mesmo **terminal**, vamos executar o download do próximo pacote necessário que é: `libssl1.1_1.1.0g-2ubuntu4_amd64.deb` Utilizar o comando abaixo e digitar a tecla **enter:**
 ```
 wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.0g-2ubuntu4_amd64.deb 
 ```
-A tela do comando deve parecer com esta abaixo:
+A tela do comando será parecida com esta abaixo:
 
 ![07-segundo-pacote7](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/bac76b49-4682-4842-855d-0af55420f1e3)
 
@@ -81,7 +81,7 @@ Vamos instalar este segundo pacote baixado com o comando indicado. **Atenção:*
 sudo dpkg -i libssl1.1_1.1.0g-2ubuntu4_amd64.deb
 ```
 
-Ao executar o comando, a tela de **terminal** deve parecer como esta abaixo:
+Ao executar o comando, a tela de **terminal** deverá parecer como esta abaixo:
 ![10-tela-instala-segundo-pacote-17](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/db5e787e-6fd4-43f9-948f-2a22be9210f2)
 
 
