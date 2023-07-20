@@ -83,8 +83,6 @@ Ao executar o comando, a tela de **terminal** deve parecer como esta abaixo:
 ![10-tela-instala-segundo-pacote-17](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/db5e787e-6fd4-43f9-948f-2a22be9210f2)
 
 
-![11-site-libnss0fire](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/fa22af6d-1ed6-48c0-97b8-ef2d9d4a096b)
-
 
 Próximo passo, vamos baixar e instalar o pacote: **libnss3-tools** através do site da comunidade **Linux Mint.** Abra o navegador Firefox e acesse o endereço:
 
