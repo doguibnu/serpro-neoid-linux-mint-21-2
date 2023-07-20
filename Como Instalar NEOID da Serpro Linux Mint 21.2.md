@@ -48,6 +48,7 @@ Quando executar o comando, sua tela de **terminal** deve parecer como abaixo. Di
 
 
 O comando irá solicitar a **senha** de super usuário como mostra a figura abaixo. Digitar a senha de super usuário **(sudo)** e teclar **enter**.
+
 ![05-tela-sudo-prim-comando1](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/7216dfb3-0ee3-4235-9da1-0f8f9f41b979)
 
 
